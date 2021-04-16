@@ -10,9 +10,9 @@
 ---
 ### 📫 Connect with me:
 
-[<img align="left" alt="Aalzate95 | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="Aalzate95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aalzate95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br/>
+[<img align="left" alt="Aalzate95 | Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter] 
+[<img align="left" alt="Aalzate95 | LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
+[<img align="left" alt="Aalzate95 | Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]<br/>
 
 ---
 ### Recent Activity:
