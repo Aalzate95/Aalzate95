@@ -26,6 +26,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalzate95&langs_count=5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ---
+### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=aalzate95&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+---
 ### :zap: GitHub Stats:  
   <p>
     <img align="left" alt="Aalzate95's GitHub Stats" src="https://github-readme-stats.aalzate95.vercel.app/api?username=Aalzate95&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /><br/>  
@@ -35,3 +38,4 @@
 [twitter]: https://twitter.com/AlexAlzate95
 [instagram]: https://instagram.com/alex.alzate95
 [linkedin]: https://linkedin.com/in/aalzate95
+
