@@ -4,7 +4,7 @@
 ---
 ### I'm a Developer by passion, dedicated 💪, who loves to learn new things every day ☀️, self-taught and outgoing.
 
-- 🎓 I’m currently learning everything 🤣
+- 🎓 I’m currently learning Ruby
 - 💻 I’m looking to collaborate with other content creators
 - 🎪 Fun fact: I love to draw and play videogames
 ---
