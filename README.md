@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Aalzate95/Clothing-Store-Project/pull/11) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
-2. 🎉 Merged PR [#10](https://github.com/Aalzate95/Clothing-Store-Project/pull/10) in [Aalzate95/Clothing-Store-Project](https://github.com/Aalzate95/Clothing-Store-Project)
+1. 🎉 Merged PR [#7](https://github.com/Aalzate95/Restaurante-frontend/pull/7) in [Aalzate95/Restaurante-frontend](https://github.com/Aalzate95/Restaurante-frontend)
+2. 💪 Opened PR [#7](https://github.com/Aalzate95/Restaurante-frontend/pull/7) in [Aalzate95/Restaurante-frontend](https://github.com/Aalzate95/Restaurante-frontend)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
