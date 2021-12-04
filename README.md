@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CabutoMarket/CabutoFront/pull/1) in [CabutoMarket/CabutoFront](https://github.com/CabutoMarket/CabutoFront)
-2. 🎉 Merged PR [#7](https://github.com/Aalzate95/Restaurante-frontend/pull/7) in [Aalzate95/Restaurante-frontend](https://github.com/Aalzate95/Restaurante-frontend)
+1. 🎉 Merged PR [#2](https://github.com/CabutoMarket/CabutoFront/pull/2) in [CabutoMarket/CabutoFront](https://github.com/CabutoMarket/CabutoFront)
+2. 💪 Opened PR [#2](https://github.com/CabutoMarket/CabutoFront/pull/2) in [CabutoMarket/CabutoFront](https://github.com/CabutoMarket/CabutoFront)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
