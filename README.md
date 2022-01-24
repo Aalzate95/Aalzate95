@@ -17,8 +17,8 @@
 ---
 ### Recent Activity:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/CabutoMarket/CabutoFront/pull/2) in [CabutoMarket/CabutoFront](https://github.com/CabutoMarket/CabutoFront)
-2. 💪 Opened PR [#2](https://github.com/CabutoMarket/CabutoFront/pull/2) in [CabutoMarket/CabutoFront](https://github.com/CabutoMarket/CabutoFront)
+1. 🎉 Merged PR [#1](https://github.com/Aalzate95/punto-verde-landing/pull/1) in [Aalzate95/punto-verde-landing](https://github.com/Aalzate95/punto-verde-landing)
+2. 🎉 Merged PR [#2](https://github.com/CabutoMarket/CabutoFront/pull/2) in [CabutoMarket/CabutoFront](https://github.com/CabutoMarket/CabutoFront)
 <!--END_SECTION:activity-->
 ---
 ### 💥Top Languages:
