@@ -1,10 +1,9 @@
-## Hi there, I'm Alexander - aka Aalzate95 👋
+## Hi there, I'm Alexander 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlexAlzate95?color=blue&label=Follow%20%40AlexAlzate95&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=AlexAlzate95)
 ---
 ### I'm a Developer by passion, dedicated 💪, who loves to learn new things every day ☀️, self-taught and outgoing.
 
-- 🎓 I’m currently learning Ruby
 - 💻 I’m looking to collaborate with other content creators
 - 🎪 Fun fact: I love to draw and play videogames
 ---
