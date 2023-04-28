@@ -1,22 +1,19 @@
-name: Update README with Recent Activity
-
+name: Latest blog post workflow
 on:
-  schedule:
-    - cron: '*/5 * * * *' # actualiza cada 30 minutos, puedes cambiar el intervalo
-  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '*/5 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  build:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Update README with recent activity
-      uses: gautamkrishnar/gh-actions-activity@v0.2.0
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        readme-path: README.md
-        max-entries: 5
-        exclude: 'WatchEvent,CreateEvent,DeleteEvent'
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
