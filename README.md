@@ -15,10 +15,10 @@
 
 ---
 ### Recent Activity:
-<!--START_SECTION:activity-->
+<!-- BLOG-POST-LIST:START -->
 1. 🎉 Merged PR [#1](https://github.com/Aalzate95/punto-verde-landing/pull/1) in [Aalzate95/punto-verde-landing](https://github.com/Aalzate95/punto-verde-landing)
 2. 🎉 Merged PR [#2](https://github.com/CabutoMarket/CabutoFront/pull/2) in [CabutoMarket/CabutoFront](https://github.com/CabutoMarket/CabutoFront)
-<!--END_SECTION:activity-->
+<!-- BLOG-POST-LIST:END -->
 ---
 ### 💥Top Languages:
 *NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.*
